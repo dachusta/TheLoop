@@ -474,7 +474,7 @@ body {
 }
 
 .product-item:after {
-  background-image: url("../img/item-bottom.svg");
+  background-image: url("../img/item-bot.svg");
 }
 
 .product-title {
